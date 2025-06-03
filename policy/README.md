@@ -35,10 +35,10 @@ $$
 
 1. **先衰減既有值**
 
-   $$\mathbf P_d = r\,\mathbf P_{old}, \quad W_d = r\,W_{old}$$
+   $$\mathbf P_d = r\mathbf P_{old}, \quad W_d = rW_{old}$$
 2. **加入新事件**（已含基礎權重）
 
-   $$\mathbf P_{new} = \frac{\mathbf P_d\,W_d + w\,\mathbf v}{W_d + w}$$
+   $$\mathbf P_{new} = \frac{\mathbf P_dW_d + w\mathbf v}{W_d + w}$$
 
    $$W_{new} = W_d + w$$
 
